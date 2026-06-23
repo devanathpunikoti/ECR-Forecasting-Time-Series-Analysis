@@ -45,4 +45,4 @@ Models were evaluated using Mean Absolute Error (MAE), $R^2$ Score, and Mean Abs
 ---
 
 ## Author
-**Devanath Punikoti** *Computer Science & AI Undergraduate | Machine Learning Engineer*
+**Devanath Punikoti** *Computer Science & AI Graduate | Machine Learning Engineer*
